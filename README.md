@@ -31,13 +31,14 @@ python coordinate_AA.py filename the_path_of_ file output_path
 python coordinate_AA.py "2CBA.pdb" "/Users/ssb/Desktop" "/Users/ssb/Desktop"
 ```
 
-```
 * You can find the result named 2CBA.npy saved in the diectory "/User/ssb/Desktop".
 
 * And If you want to view the result, you can use the program Readnpy,for example:
+
 ```
 python Readnpy.py "/Users/ssb/Desktop/2CAB.npy"
 ```
+
 * The usage about coordinate_chain.py is the same with coordinate_AA.py
 
 ## Copyright
