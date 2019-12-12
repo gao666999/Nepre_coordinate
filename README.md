@@ -1,11 +1,11 @@
 # Nepre_coordinate
 A program can extract Neighborhood relationship coordinate data from pdb file
 ## Summary
-This project include the following things:
-(1) coordinate _AA.py is a program can extract Neighborhood relationship between Amino Acid.
-(2) coordinate_chain.py is a program can extract Neighborhood relationship between chain and chain.
-(3) testdataAA is the test data for program coordinate_AA.py
-(4) testdatachain is the test data for program coordinate_chain.py
+This project include the following things:  
+(1) coordinate _AA.py is a program can extract Neighborhood relationship between Amino Acid.  
+(2) coordinate_chain.py is a program can extract Neighborhood relationship between chain and chain.  
+(3) testdataAA is the test data for program coordinate_AA.py  
+(4) testdatachain is the test data for program coordinate_chain.py  
 (5) The result about Neighborhood relationship  saved as a dict in npy file type,you can use program Readnpy.py to view the result.
 
 ## Usage
